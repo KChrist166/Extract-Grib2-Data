@@ -1,3 +1,5 @@
+import ecmwflibs
+import eccodes
 import cfgrib
 import pandas as pd
 
